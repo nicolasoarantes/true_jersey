@@ -646,8 +646,9 @@
       "1649913264519d35a7": {
         "type": "collection-with-image",
         "settings": {
-          "collection": "frontpage",
+          "collection": "brasileirao",
           "products_count": 12,
+          "image": "shopify://shop_images/soccer-ball-lined-up-for-kick.jpg",
           "background1": "#bc0000",
           "background2": "#400000",
           "text_color": "#ffffff",
@@ -692,6 +693,8 @@
           "a50ea995-6f1f-4d09-adba-422a0c918c60-image-2": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/1.png",
+              "mobile_image": "shopify://shop_images/1_bd3f2d88-7bb0-45a2-a2e4-3ece8222bf69.png",
               "show_overlay": false,
               "overlay_opacity": 61,
               "text_color": "#000000",
